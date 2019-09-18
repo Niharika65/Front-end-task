@@ -1,0 +1,10 @@
+div.c {
+  border-radius: 20px; 
+width: 250px;
+  padding: 25px;
+  box-sizing: border-box;
+  background-color: #800080;
+} 
+div.a{
+text-align: right;
+}

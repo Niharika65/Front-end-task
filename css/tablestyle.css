@@ -1,0 +1,17 @@
+table {
+  font-family: arial;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+ th {
+ border: 0.1px solid #dddddd;
+  text-align: left;
+  padding: 10px;
+  color:violet;
+}
+td{
+ border: 0.1px solid #dddddd;
+  text-align: left;
+  padding: 10px;
+  }
